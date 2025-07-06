@@ -14,4 +14,4 @@ This board is an intermediate board that allows the integrated use of 5V and 12V
 ---
 # 🔎3D & Artwork View
 <img width="892" height="856" alt="Image" src="https://github.com/user-attachments/assets/56d74605-8891-4c46-b565-79dfdc09cf94" />
-<img width="1161" height="604" alt="Image" src="https://github.com/user-attachments/assets/46c44317-438b-470b-87af-f5d42bbdacf7" />
+<img width="2266" height="1166" alt="Image" src="https://github.com/user-attachments/assets/c69c0ec7-0d5e-405a-8846-fc58bab909e6" />
